@@ -10,6 +10,7 @@
   User-Friendly Interface: Provides a visual representation of IPC interactions.
 
 3. Working Mechanism
+   
   A. Data Collection
     The debugger captures IPC events in real time using system monitoring tools.
     Logs detailed timestamps, process IDs, and message contents.
