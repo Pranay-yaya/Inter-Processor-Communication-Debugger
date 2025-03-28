@@ -1,6 +1,7 @@
 import multiprocessing as mp
 import time #Used to delay execution for a given number of seconds
-import random # we can select random number 
+# we can select random number
+import random 
 
 def producer(pipe_out, shared_value, debug_queue):
     for i in range(5):
